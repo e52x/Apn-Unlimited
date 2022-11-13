@@ -22,5 +22,4 @@
 
 ![image](https://user-images.githubusercontent.com/73192109/201519397-1228ef67-0541-409c-9b5a-ec30c19e5594.png)
 
- 32iNZDYtEhe8UuJoUbsBMvWDafr6u32TPC
-![image](https://user-images.githubusercontent.com/73192109/201520104-05bd36d0-41be-4de9-92b4-eff4ce8eb54e.gif)
+ 32iNZDYtEhe8UuJ7oUbsBMvWDafr6u32TPC
